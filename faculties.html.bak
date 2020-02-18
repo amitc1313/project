@@ -1,0 +1,41 @@
+<strong></strong>!doctype html>
+<html lang="en">
+ <head>
+ <title>Document</title>
+ </head>
+ <a href="clg.html">Home</a>
+ <body bgcolor=yellow>
+  <table border="2px" cellpadding="2px">
+  <tr>
+  <h1>Faculties Name</h1>
+  <th>Professor Name</th>
+  <th>Subject</th>
+  <th>year of Exp</th>
+  <th>Contact Number</th>
+  </tr>
+  <tr>
+  <td>Bhawna Mam</td>
+  <td>Communication</td>
+  <td>15yr</td>
+  <td>987645213</td>
+  </tr>
+  <tr>
+  <td>Anil Sir</td>
+  <td>Electonics</td>
+  <td>7yr</td>
+  <td>786654954</td>
+  </tr>
+  <tr>
+  <td>Rajesh Shakle</td>
+  <td>Maths</td>
+  <td>18yr</td>
+  <td>8457895555</td>
+  </tr>
+  <tr>
+  <td>Amitbodh</td>
+  <td>Chemistry</td>
+  <td>20yrs</td>
+  <td>7898784565</td>
+  </table>
+</body>
+</html>

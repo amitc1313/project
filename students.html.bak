@@ -1,0 +1,43 @@
+<!doctype <!doctype html>
+ <html lang="en">
+ <head>
+ <title>Form Creation</title>
+ </head>
+ <body bgcolor="skyblue" align="center">
+ <form>
+ <a href="clg.html">Home</a>
+ <h1><u>Student Details</u></h1>
+ <table bgcolor="orange" align="center">
+ <tr>
+ <td>Name:</td>
+ <td><input type="text" name ="t1" placeholder="enter your Name" /></td></tr>
+ <tr>
+ <td>Mobile Number:</td></br>
+ <td><input type="Number" name="t2" placeholder="enter your Number"/></td></tr>
+ <tr>
+ <td>Emailid:</td>
+ <td><input type="text" name="t3"/></td></tr>
+ <tr>
+ <td>DOB:</td>
+ <td><input type="date" name="t4"/></td></tr>
+  
+ </tr>
+ <tr>
+ <td>Gender:</td>
+ <td><input type="radio" name="r1">Male</input>
+ <input type ="radio" name="r1">Female</input>
+ <input type="radio" name="r1">others</input></td></tr></br>
+ <tr>
+ <td>Subject:</td>
+ <td><input type="checkbox" name="c1">Computer Science</input>
+ <input type="checkbox" name="c1">Electrical </input>
+ <input type="checkbox" name="c1">Civil</input>
+ <input type="checkbox" name="c1">Mech</input></td></tr></br>
+ <tr><td>city:</td><td><input type="text" name="c2"/></br>
+ <td align="center" colspan="2">
+ <input type="submit" name="b1" value="SUB"/>
+ <input type="reset" name="b2" value="RES"/></td></tr>
+ </table>
+ </form>
+ </body>
+ </html>
